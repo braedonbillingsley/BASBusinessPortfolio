@@ -4,7 +4,6 @@
 ##  🏠 [Homepage]("https://linktohomepage.com")
 ##  📁 [GitHub Repo](https://github.com/william-castillo-jr/BASBusinessPortfolio)
 ##  🏕️ [BaseCamp](https://3.basecamp.com/5243442/projects/37013259)
-<br>
 
 ## ‍🎓 Who is this for? 
 BAS Business Students at GRC, especially those struggling to build professional profiles and manage busy schedules.
